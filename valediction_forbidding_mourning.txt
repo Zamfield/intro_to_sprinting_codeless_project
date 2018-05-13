@@ -45,3 +45,5 @@ Such wilt thou be to me, who must,
    Like th' other foot, obliquely run; 
 Thy firmness makes my circle just, 
    And makes me end where I begun. 
+
+- Edited by Thomas Kreeger for pycon 2018 development sprint workshop
